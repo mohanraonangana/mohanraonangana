@@ -64,7 +64,7 @@
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=netlify,aws&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=netlify&perline=6)](https://skillicons.dev)
 
   </div>
 </p>
