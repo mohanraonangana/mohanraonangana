@@ -97,7 +97,7 @@
 </div>
 <br/>
 
-[![mohanraonangana GitHub | Topics Over Time](https://stats.quine.sh/mohanraonangana/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mohanraonangana)
+[![mohanraonangana's GitHub | Stats](https://stats.quine.sh/mohanraonangana/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mohanraonangana)
 
 </div>
 
